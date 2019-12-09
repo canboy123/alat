@@ -6,5 +6,12 @@ Please contact us if you still cannot solve the issue.<br/>
 
 Step:
 <ol>
-  <li>Download all files from <a href="https://github.com/tensorflow/cleverhans">cleverhan</a> github</li>
+  <li>Download all files from <a href="https://github.com/tensorflow/cleverhans">cleverhan</a> github.</li>
+  <li>Replace our files into corresponding folder.</li>
+  <li>
+    Execute the correct python script in "cleverhans_tutorials" (or "examples") folder.<br/>
+    E.g.: <br/>
+    cleverhans_tutorials/mnist_tutorial_tf_single_pr.py for MNIST dataset<br/>
+    examples/ex_cifar10_tf_multiple_pr.py for CIFAR10 dataset
+  </li>
 </ol>
