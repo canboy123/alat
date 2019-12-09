@@ -14,4 +14,10 @@ Step:
     <i>cleverhans_tutorials/mnist_tutorial_tf_single_pr.py</i> for MNIST dataset<br/>
     <i>examples/ex_cifar10_tf_multiple_pr.py</i> for CIFAR10 dataset
   </li>
+  <li>
+    Go to correspoding <i>utils_tf.py</i> to set different cases for the experiments. The setting is located at <i>model_eval()</i> function with a variable name "case". Note that case=0 is a normal case, case=1 is used for Case A, case=2 is used for Case B, case=3 is used for Case C, and case=4 is used for Case D.<br/>
+    E.g.: <br/>
+    <i>cleverhans/utils_tf_pr_mnist.py</i> is used for <i>cleverhans_tutorials/mnist_tutorial_tf_single_pr.py</i>.<br/>
+    <i>cleverhans/utils_tf_multiple_pr_cifar10.py</i> is used for <i>examples/ex_cifar10_tf_multiple_pr.py</i>
+  </li>
 </ol>
