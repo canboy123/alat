@@ -30,4 +30,5 @@ preferred-citation:
   journal: "Applied Intelligence"
   volume: 52
   number: 4
-  pages: "4364--4381"
+  start: 4364 # First page number
+  end: 4381 # Last page number
