@@ -11,9 +11,23 @@ authors:
   given-names: "DAE-KI"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Attack-less adversarial training for a robust adversarial defense"
-journal: "Applied Intelligence"
-volume: "52"
-number: "4"
-pages: "4364--4381"
 date-released: "2022"
 url: "https://github.com/canboy123/alat"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "HO"
+    given-names: "JIACANG"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "LEE"
+    given-names: "BYUNG-GOOK"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "KANG"
+    given-names: "DAE-KI"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  title: "Attack-less adversarial training for a robust adversarial defense"
+  year: 2022
+  journal: "Applied Intelligence"
+  volume: 52
+  number: 4
+  pages: "4364--4381"
