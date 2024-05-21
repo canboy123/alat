@@ -1,3 +1,5 @@
+# Attack-less adversarial training for a robust adversarial defense
+## Introduction
 We have downloaded and extended from https://github.com/tensorflow/cleverhans.<br/>
 Please check the original version from the link above.<br/>
 <br/>
@@ -21,3 +23,17 @@ Step:
     <i>cleverhans/utils_tf_multiple_pr_cifar10.py</i> is used for <i>examples/ex_cifar10_tf_multiple_pr.py</i>
   </li>
 </ol>
+
+## Citing this work
+```
+@article{ho2022attack,
+  title={Attack-less adversarial training for a robust adversarial defense},
+  author={Ho, Jiacang and Lee, Byung-Gook and Kang, Dae-Ki},
+  journal={Applied Intelligence},
+  volume={52},
+  number={4},
+  pages={4364--4381},
+  year={2022},
+  publisher={Springer}
+}
+```
